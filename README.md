@@ -1,4 +1,10 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  The Instagram Photo Feed
+##  The Instagram Photo Feed
+
+Running web-server using the following command:
+
+```sh
+$ pip3 install flask && python3 server.py
+```
 
 Everyone knows Instagram, it's an ideal fun exercise to practice your beginner HTML/CSS skills. On this project will be exercising the following concepts:
 
